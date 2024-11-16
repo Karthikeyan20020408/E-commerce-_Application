@@ -1,4 +1,4 @@
-# Big Title (E-Commerce Application)
+# E-Commerce Application
 ## Medium Title (Heading 2)
 ### Small Title (Heading 3)
 
