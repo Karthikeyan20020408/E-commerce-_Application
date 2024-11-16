@@ -1,17 +1,17 @@
 # E-Commerce Application
 ## Project Overview
 This project is a feature-rich E-Commerce Application built with the MERN stack (MongoDB, Express, React, Node.js). The platform enables users to browse, search, and purchase products online, providing seamless shopping experiences for customers and a comprehensive management interface for administrators.
-Features
-- User Authentication: Secure user registration and login functionality using JWT.
+## Features
+- **User Authentication:** Secure user registration and login functionality using JWT.
 - Product Browsing: Customers can browse and search for products through categories and filters
 
 - Product Details: Detailed product pages with descriptions, images, and reviews.
   Shopping Cart: Add, edit, or remove items in a shopping cart for easy purchase management.
   
-## Order Management:
+ Order Management:
 - For Customers: Place orders and view order history.
 - For Admins: Track, manage, and update order statuses.
-- ## Admin Panel: Admins can:
+  Admin Panel: Admins can:
 - Manage products (add, edit, delete).
 
 - View and manage customer orders.
