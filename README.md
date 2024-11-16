@@ -1,4 +1,4 @@
-E-Commerce Application
+#E-Commerce Application
 Project Overview
 This project is a feature-rich E-Commerce Application built with the MERN stack (MongoDB, Express, React, Node.js). The platform enables users to browse, search, and purchase products online, providing seamless shopping experiences for customers and a comprehensive management interface for administrators.
 
@@ -74,7 +74,4 @@ User-Friendly Interface: Streamlined navigation for customers and admins.
 Efficiency: Reduces the need for physical stores.
 Accessibility: Available 24/7 for shopping.
 Centralized Management: Tracks inventory, orders, and sales in one place.
-Scalable: Supports businesses of any size.
-Secure Transactions: Role-based access and encrypted payment processes.
-Notifications: Keeps users updated with orders and offers.
-Global Reach: Open to customers worldwide.
+Scalable: Supports businesses of any s
