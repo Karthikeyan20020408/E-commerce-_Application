@@ -29,12 +29,12 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
 
 
 ## Technologies Used
-1.**Frontend:** React, HTML, CSS, JavaScript 
-2.**Backend:** Node.js, Express
-3.**Database**Database: MongoDB
-4.**Authentication:** JSON Web Tokens (JWT) for secure login
-5.**Payments: **Integration with payment gateways (e.g., Stripe, PayPal)
-6.**Deployment:** Heroku, AWS, or any hosting platform
+1. **Frontend:** React, HTML, CSS, JavaScript 
+2. **Backend:** Node.js, Express
+3. **Database**Database: MongoDB
+4. **Authentication:** JSON Web Tokens (JWT) for secure login
+5. **Payments:** Integration with payment gateways (e.g., Stripe, PayPal)
+6. **Deployment:** Heroku, AWS, or any hosting platform
 
   
 
