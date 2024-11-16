@@ -56,11 +56,12 @@ https://www.mongodb.com/try/download/community
 3. **Initialize Frontend:**
 - Use Create React App or Vite for an optimized frontend setup.
 - React Setup Guide
-  4.  **Setup Backend:**
-- Initialize Express.js for API routing and server logic.
-- Express Installation
-  5. **Environment Variables:**
-- Configure an .env file for storing sensitive information (e.g., database URI, JWT secrets, and payment gateway keys).
+4. **Setup Backend:**
+  - Initialize Express.js for API routing and server logic.
+  - Express Installation
+ 
+5. **Environment Variables:**
+  - Configure an .env file for storing sensitive information (e.g., database URI, JWT secrets, and payment gateway keys).
 6. **Install Dependencies:**
 - Run npm install in both the frontend and backend directories.
 7. **Run the Application:**
