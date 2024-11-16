@@ -10,19 +10,19 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
   
  5. **Order Management:**
    
- **For Customers:** Place orders and view order history.
- **For Admins:** Track, manage, and update order statuses.
- **Admin Panel:** Admins can:
+ - **For Customers:** Place orders and view order history.
+  - **For Admins:** Track, manage, and update order statuses.
+  - **Admin Panel:** Admins can:
 - Manage products (add, edit, delete).
 
 - View and manage customer orders.
 
 - Track sales and generate reports.
   6. **Discounts and Offers:** Admins can create promotions and discounts.
- 7. **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
- 8. **Notifications:** Notify users about order updates, discounts, and offers.
- 9. **Wishlist:** Users can save products for future purchases.
- 9.**Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
+   7. **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
+  8.  **Notifications:** Notify users about order updates, discounts, and offers.
+  9. **Wishlist:** Users can save products for future purchases.
+  10. **Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
 
   
 
