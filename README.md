@@ -2,10 +2,10 @@
 ## Project Overview
 This project is a feature-rich E-Commerce Application built with the MERN stack (MongoDB, Express, React, Node.js). The platform enables users to browse, search, and purchase products online, providing seamless shopping experiences for customers and a comprehensive management interface for administrators.
 ## Features
-- 1.**User Authentication:** Secure user registration and login functionality using JWT.
-- 2.**Product Browsing:** Customers can browse and search for products through categories and filters
+ 1.**User Authentication:** Secure user registration and login functionality using JWT.
+2.**Product Browsing:** Customers can browse and search for products through categories and filters
 
-- 3.**Product Details:** Detailed product pages with descriptions, images, and reviews.
+3.**Product Details:** Detailed product pages with descriptions, images, and reviews.
  4.**ShoppingCART**  : Add, edit, or remove items in a shopping cart for easy purchase management.
   
  5.**Order Management:**
@@ -17,12 +17,12 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
 - View and manage customer orders.
 
 - Track sales and generate reports.
-- **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
-- **Notifications:** Notify users about order updates, discounts, and offers.
-- **Responsive Design:** Optimized for desktop, tablet, and mobile views.
-- **Wishlist:** Users can save products for future purchases.
-- **Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
-- **Discounts and Offers:** Admins can create promotions and discounts.
+6. **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
+7. **Notifications:** Notify users about order updates, discounts, and offers.
+8. **Responsive Design:** Optimized for desktop, tablet, and mobile views.
+9. **Wishlist:** Users can save products for future purchases.
+  10.**Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
+11. **Discounts and Offers:** Admins can create promotions and discounts.
 
 
 
