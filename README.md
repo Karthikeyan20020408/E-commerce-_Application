@@ -83,11 +83,12 @@ https://www.mongodb.com/try/download/community
 - Track sales performance and generate reports.
 
 ### Applications
-- Retail Stores: Selling products like apparel, electronics, and accessories.
-- Grocery Delivery: Facilitating online grocery shopping.
-- Digital Goods: Selling ebooks, software, or music.
-- Service-Based: Offering subscription services or bookings.
-- B2B Commerce: Managing wholesale transactions for businesses.
+-  **Retail Stores:** Selling products like apparel, electronics, and accessories.
+-  **Grocery Delivery:** Facilitating online grocery shopping.
+-  **Digital Goods:** Selling ebooks, software, or music.
+-  **Service-Based:** Offering subscription services or bookings.
+-  **B2B Commerce:** Managing wholesale transactions for businesses.
+-  
 ### Advantages
 - **User-Friendly Interface:** Streamlined navigation for customers and admins.
 - **Efficiency:** Reduces the need for physical stores.
