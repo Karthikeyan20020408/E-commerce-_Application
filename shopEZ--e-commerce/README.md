@@ -1,6 +1,6 @@
 # shopEZ--e-commerce-MERN
 Demo - <a href="https://drive.google.com/file/d/12LSyk0rHTb9M3oY0dYaq8x4nDVsBI6j2/view?usp=drive_link">view video</a>
-# E-Commerce Application
+
 ## Project Overview
 This project is a feature-rich E-Commerce Application built with the MERN stack (MongoDB, Express, React, Node.js). The platform enables users to browse, search, and purchase products online, providing seamless shopping experiences for customers and a comprehensive management interface for administrators.
 ## Features
