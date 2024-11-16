@@ -42,11 +42,11 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
 ## Installation
 ### Prerequisites
 
-1. **Node.js:**  Required for managing dependencies and running backend services.
+- 1. **Node.js:**  Required for managing dependencies and running backend services.
 
 [Download Node.js:] https://nodejs.org/en/download/
 
-2.  **MongoDB:** Used to store user, product, and order data.
+- 2.  **MongoDB:** Used to store user, product, and order data.
  [L
 Download MongoDB Community Edition:]
 https://www.mongodb.com/try/download/community
@@ -87,12 +87,12 @@ Start the backend server and the React app to test the integration.
 - Service-Based: Offering subscription services or bookings.
 - B2B Commerce: Managing wholesale transactions for businesses.
 ### Advantages
-**User-Friendly Interface:** Streamlined navigation for customers and admins.
-**Efficiency:** Reduces the need for physical stores.
-**Accessibility:** Available 24/7 for shopping.
-**Centralized Management**Tracks inventory, orders, and sales in one place.
-**Scalable:** Supports businesses of any size.
-**Secure Transactions:** Role-based access and encrypted payment processes.
-**Notifications:** Keeps users updated with orders and offers.
-**Global Reach:** Open to customers worldwide.
+- **User-Friendly Interface:** Streamlined navigation for customers and admins.
+- **Efficiency:** Reduces the need for physical stores.
+- **Accessibility:** Available 24/7 for shopping.
+- **Centralized Management**Tracks inventory, orders, and sales in one place.
+- **Scalable:** Supports businesses of any size.
+- **Secure Transactions:** Role-based access and encrypted payment processes.
+- **Notifications:** Keeps users updated with orders and offers.
+- **Global Reach:** Open to customers worldwide.
 
