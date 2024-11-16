@@ -69,10 +69,10 @@ Start the backend server and the React app to test the integration.
 ### Usage
 
 1.**Customer Functions:**
--Register and log in securely.
--Browse products, add items to the cart, and place orders.
--Track orders and view purchase history.
--Save items to the wishlist.
+Register and log in securely.
+Browse products, add items to the cart, and place orders.
+Track orders and view purchase history.
+Save items to the wishlist.
 
 2.**Admin Functions:**
 
