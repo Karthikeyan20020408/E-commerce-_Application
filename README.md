@@ -5,10 +5,10 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
  1. **User Authentication:** Secure user registration and login functionality using JWT.
 2. **Product Browsing:** Customers can browse and search for products through categories and filters
 
-3. **Product Details:** Detailed product pages with descriptions, images, and reviews.
- 4 .**ShoppingCART**  : Add, edit, or remove items in a shopping cart for easy purchase management.
+3.  **Product Details:** Detailed product pages with descriptions, images, and reviews.
+   4.  *ShoppingCART**  : Add, edit, or remove items in a shopping cart for easy purchase management.
   
- 5.**Order Management:**
+ 5. **Order Management:**
 - **For Customers:** Place orders and view order history.
 - **For Admins:** Track, manage, and update order statuses.
   **Admin Panel:** Admins can:
@@ -17,11 +17,12 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
 - View and manage customer orders.
 
 - Track sales and generate reports.
-  6. **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
-  7. **Notifications:** Notify users about order updates, discounts, and offers.
-  8. **Wishlist:** Users can save products for future purchases.
-9. **Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
-  10. **Discounts and Offers:** Admins can create promotions and discounts.
+  6.  **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
+  7.  **Notifications:** Notify users about order updates, discounts, and offers.
+  8.  **Wishlist:** Users can save products for future purchases.
+  9.**Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
+  10.  **Discounts and Offers:** Admins can create promotions and discounts.
+  
 
 
 
