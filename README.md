@@ -10,14 +10,12 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
   
  5. **Order Management:**
    
- - **For Customers:** Place orders and view order history.
-  - **For Admins:** Track, manage, and update order statuses.
-  - **Admin Panel:** Admins can:
-- Manage products (add, edit, delete).
-
-- View and manage customer orders.
-
-- Track sales and generate reports.
+  1. - **For Customers:** Place orders and view order history.
+  2. - **For Admins:** Track, manage, and update order statuses.
+  3. - **Admin Panel:** Admins can:
+         - Manage products (add, edit, delete).
+         - View and manage customer orders.
+        - Track sales and generate reports.
   6. **Discounts and Offers:** Admins can create promotions and discounts.
    7. **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
   8.  **Notifications:** Notify users about order updates, discounts, and offers.
@@ -88,7 +86,7 @@ https://www.mongodb.com/try/download/community
 -  **Digital Goods:** Selling ebooks, software, or music.
 -  **Service-Based:** Offering subscription services or bookings.
 -  **B2B Commerce:** Managing wholesale transactions for businesses.
--  
+   
 ### Advantages
 - **User-Friendly Interface:** Streamlined navigation for customers and admins.
 - **Efficiency:** Reduces the need for physical stores.
