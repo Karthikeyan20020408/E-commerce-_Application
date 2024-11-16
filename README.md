@@ -51,21 +51,25 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
 Download MongoDB Community Edition:]
 https://www.mongodb.com/try/download/community
 ### Steps
-1.**Install Node.js:** 
+1. **Install Node.js:** 
 - Follow the official Node.js download and installation instructions.
 2.**Set Up MongoDB:**
 - Install MongoDB locally or configure a cloud instance using MongoDB Atlas.
-3.**Initialize Frontend:**
+
+
+
+
+ 3. **Initialize Frontend:**
 - Use Create React App or Vite for an optimized frontend setup.
 - React Setup Guide
-4.**Setup Backend:**
+  **Setup Backend:**
 - Initialize Express.js for API routing and server logic.
 - Express Installation
-5.**Environment Variables:**
+  **Environment Variables:**
 - Configure an .env file for storing sensitive information (e.g., database URI, JWT secrets, and payment gateway keys).
-6.**Install Dependencies:**
+**Install Dependencies:**
 - Run npm install in both the frontend and backend directories.
-7.**Run the Application:**
+**Run the Application:**
 - Start the backend server and the React app to test the integration.
 ### Usage
 
