@@ -15,12 +15,13 @@ This project is a feature-rich E-Commerce Application built with the MERN stack 
      3.  **Admin Panel:** Admins can:
          - Manage products (add, edit, delete).
          - View and manage customer orders.
-        - Track sales and generate reports.
-    **Discounts and Offers:** Admins can create promotions and discounts.
-    **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
-    **Notifications:** Notify users about order updates, discounts, and offers.
-    **Wishlist:** Users can save products for future purchases.
-   **Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
+         - Track sales and generate reports.
+   
+ 6. **Discounts and Offers:**  Admins can create promotions and discounts.
+ 7.   **Payments Integration:** Integration with secure payment gateways for hassle-free transactions.
+ 8.  **Notifications:**  Notify users about order updates, discounts, and offers.
+ 9. **Wishlist:**    Users can save products for future purchases.
+ 10.  **Product Reviews and Ratings:** Users can leave reviews and rate products after purchase.
 
   
 
@@ -49,20 +50,20 @@ https://www.mongodb.com/try/download/community
 ### Steps
  1. **Install Node.js:** 
 - Follow the official Node.js download and installation instructions.
-2.**Set Up MongoDB:**
+ 2.**Set Up MongoDB:**
 - Install MongoDB locally or configure a cloud instance using MongoDB Atlas.
-3. **Initialize Frontend:**
+ 3. **Initialize Frontend:**
 - Use Create React App or Vite for an optimized frontend setup.
 - React Setup Guide
-4. **Setup Backend:**
+ 4. **Setup Backend:**
   - Initialize Express.js for API routing and server logic.
   - Express Installation
  
-5. **Environment Variables:**
+ 5. **Environment Variables:**
   - Configure an .env file for storing sensitive information (e.g., database URI, JWT secrets, and payment gateway keys).
-6. **Install Dependencies:**
+ 6. **Install Dependencies:**
 - Run npm install in both the frontend and backend directories.
-7. **Run the Application:**
+ 7. **Run the Application:**
 - Start the backend server and the React app to test the integration.
   
 
