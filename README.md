@@ -1,4 +1,4 @@
-# (E-Commerce Application)
+# Big Title (Heading 1)
 ## Medium Title (Heading 2)
 ### Small Title (Heading 3)
 
@@ -13,7 +13,7 @@ Shopping Cart: Add, edit, or remove items in a shopping cart for easy purchase m
 Order Management:
 For Customers: Place orders and view order history.
 For Admins: Track, manage, and update order statuses.
-Admin Panel: Admins can:
+Admin Panel:
 Manage products (add, edit, delete).
 View and manage customer orders.
 Track sales and generate reports.
@@ -33,11 +33,9 @@ Deployment: Heroku, AWS, or any hosting platform
 Installation
 Prerequisites
 Node.js: Required for managing dependencies and running backend services.
-
-Download Node.js: https://nodejs.org/en/download/
+Download Node.js
 MongoDB: Used to store user, product, and order data.
-
-Download MongoDB Community Edition: https://www.mongodb.com/try/download/community
+Download MongoDB Community Edition
 Steps
 Install Node.js: Follow the official Node.js download and installation instructions.
 Set Up MongoDB:
@@ -55,14 +53,12 @@ Run npm install in both the frontend and backend directories.
 Run the Application:
 Start the backend server and the React app to test the integration.
 Usage
-Customer Functions:
-
+Customer Functions
 Register and log in securely.
 Browse products, add items to the cart, and place orders.
 Track orders and view purchase history.
 Save items to the wishlist.
-Admin Functions:
-
+Admin Functions
 Add, edit, or delete products.
 View and manage customer orders.
 Track sales performance and generate reports.
